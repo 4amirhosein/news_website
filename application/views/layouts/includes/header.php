@@ -1,4 +1,4 @@
-    <!DOCTYPE html>
+ <!DOCTYPE html>
     <html lang="en">
 
 
@@ -11,17 +11,18 @@
 
       <title>رویداد های دانشجویی</title>
 
-      <!-- Bootstrap core CSS -->
-      <link href="<?php echo base_url();?>assets/css/bootstrap.min.css" rel="stylesheet"> 
+     <link href="<?php echo base_url();?>assets/css/bootstrap.min.css" rel="stylesheet"> 
 
       <link href="<?php echo base_url();?>assets/css/mdb.min.css" rel="stylesheet" type="text/css">
 
       <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-
+  
       <!-- Custom styles for this template -->
-      <!--    <link href="css/blog-home.css" rel="stylesheet" type="text/css"> -->
+         <!-- <link href="css/blog-home.css" rel="stylesheet" type="text/css"> -->
       <link href="<?php echo base_url();?>assets/css/custom.css" rel="stylesheet" type="text/css">
       <script type="text/javascript" src="<?php echo base_url();?>assets/js/jquery-3.2.1.min.js"></script>
+        <script type="text/javascript" src="<?php echo base_url();?>assets/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="<?php echo base_url();?>assets/js/custom.js"></script>
 
        </head>
 
